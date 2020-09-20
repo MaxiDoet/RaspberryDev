@@ -1,13 +1,10 @@
-sudo su
-
+#!/bin/sh
 echo "Updating Raspian"
-apt-get update
-apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
 
 echo "Installing Desktop"
-apt-get install xorg lightdm xfce4
-
-su pi
+sudo apt-get install xorg lightdm xfce4
 
 echo "Installing Dev Essentials"
 sudo apt-get install git npm
