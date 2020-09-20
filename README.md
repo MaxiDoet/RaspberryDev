@@ -1,7 +1,7 @@
 # RaspberryDev
 
-You can run it with:
-./install.sh |& tee output.txt
+A simple script for setting up a complete Programming Environment on a Raspberry. 
+
 
 ## Installation
 
@@ -11,3 +11,18 @@ You can run it with:
     ./install.sh
 
   # Note: It will take around a half hour to install everything. 
+
+## Software
+
+ * Desktop
+   * xfce4
+   * lightdm
+   * xorg
+   * plank
+
+ * Programming
+   * Gheany
+   * VS Code (code.headmelted.com)
+   * NodeJS
+   * NPM
+   * NVM (Node Version Manager)
