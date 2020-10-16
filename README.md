@@ -14,15 +14,11 @@ A simple script for setting up a complete Programming Environment on a Raspberry
 
 ## Software
 
- * Desktop
-   * xfce4
-   * lightdm
-   * xorg
-   * plank
+ * Desktop: Cinnamon
 
  * Programming
-   * Gheany
+   * Apostroph (Markdown Editor) 
    * VS Code (code.headmelted.com)
    * NodeJS
    * NPM
-   * NVM (Node Version Manager)
+   * NVM (Node Version Manager) 
