@@ -15,6 +15,7 @@ A simple script for setting up a complete Programming Environment on a Raspberry
 ## Software
 
  * Desktop: Cinnamon
+ * Dock: Cairo
 
  * Programming
    * Apostroph (Markdown Editor) 
